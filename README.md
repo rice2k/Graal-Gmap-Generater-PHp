@@ -1,6 +1,4 @@
-# Let's create the README.md file and save it so you can download it.
-
-readme_content = '''# GMAP Generator
+# GMAP Generator
 
 A PHP-based GMAP generator tool that allows users to create, download, and track GMAP files in a zip format. The tool also tracks visitors, generated files, and file downloads. The interface includes a light/dark mode toggle for user preference.
 

@@ -34,7 +34,7 @@ Follow these steps to set up the GMAP Generator on your web server:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/gmap-generator.git
+    git clone https://github.com/yourrice2k/gmap-generator.git
     cd gmap-generator
     ```
 

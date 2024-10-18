@@ -20,7 +20,7 @@ A PHP-based GMAP generator tool that allows users to create, download, and track
 - **JavaScript** for client-side validation and dynamic theming (dark/light mode)
   
 ### Live Demo
-You can see a live demo of the GMAP Generator [here](http://yourdomain.com/generatelevels.php).
+You can see a live demo of the GMAP Generator [here](http://yourdomain.com/generatelevels.php). (Down at the moment)
 
 ### Requirements
 
